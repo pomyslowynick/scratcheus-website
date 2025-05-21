@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Scratcheus: Build Prometheus from the scratch!'
+
+[markup]
+  [markup.highlight]
+    style = 'catppuccin-macchiato'
