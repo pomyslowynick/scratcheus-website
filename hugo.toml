@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Scratcheus: Build Prometheus from the scratch!'
+title = 'Scratcheus: Build Prometheus from scratch!'
 
 [markup]
   [markup.highlight]
