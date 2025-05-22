@@ -59,3 +59,10 @@ It's a truism that we need the context to make sense of any piece of code, but k
 ** At this point reader is already exposed to some code, so they can start building their understanding with the traces given, we focus their atention at the right function at the time. **
 
 Now that we got the first look at the code let's make a mental scaffolding around it.
+
+TODO:
+- Explain with diagrams which part of Prometheus we are implementing and how it's relevant to the big picture
+- Add executable code snippets 
+- Link and explain Gorilla paper and dgrys implementation of it
+- Try to keep the style at the right balance of technical and entertaining
+- Link and create a branch with complete code implementation
